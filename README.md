@@ -32,4 +32,3 @@ Step 4 : Follow the steps given on that page README.md
 
 Thank a lot and Regards...
 
-Radhe Raman Tiwari
